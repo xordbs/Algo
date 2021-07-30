@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/82102/Desktop/싸피 자료/1학기/JAVA/수업자료/jackson/jackson-annotations-2.12.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/82102/Desktop/싸피 자료/1학기/JAVA/수업자료/jackson/jackson-core-2.12.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/82102/Desktop/싸피 자료/1학기/JAVA/수업자료/jackson/jackson-databind-2.12.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
